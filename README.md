@@ -18,7 +18,7 @@
 
 ```bash
 # Claude Code:放入 skills 目录
-git clone https://github.com/<你的用户名>/feibao-unboxing-copywriter.git ~/.claude/skills/feibao-unboxing-copywriter
+git clone https://github.com/linzesheng0721/feibao-unboxing-copywriter.git ~/.claude/skills/feibao-unboxing-copywriter
 ```
 
 Claude Desktop:设置 → Skills → 上传 `SKILL.md`(或在对话中让 Claude 用 save_skill 保存)。
